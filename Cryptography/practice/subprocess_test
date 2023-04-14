@@ -1,0 +1,10 @@
+import subprocess
+
+
+subprocess.getoutput("echo 'num1' >> file")
+with open("file", 'r') as file:
+    print(file.read())
+
+subprocess.getoutput("echo 'num2' >> file")
+with open("file", 'r') as file:
+    print(file.read())

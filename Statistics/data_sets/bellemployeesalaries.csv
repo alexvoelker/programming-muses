@@ -1,0 +1,189 @@
+cityName,department,position,wages
+Bell,Administration,Account Clerk,47973
+Bell,Administration,Account Clerk,48207
+Bell,Administration,Account Clerk,46582
+Bell,Administration,Accounting Manager,104406
+Bell,Administration,Assistant City Manager,562538
+Bell,Administration,Assistant to Food Bank Coordinator,110053
+Bell,Administration,Business Development Coordinator,159033
+Bell,Administration,Business License Officer,15071
+Bell,Administration,City Manager,1171423
+Bell,Administration,Council,111260
+Bell,Administration,Council,112489
+Bell,Administration,Council,110954
+Bell,Administration,Council,112627
+Bell,Administration,Director of Administrative Services,253774
+Bell,Administration,Housing Specialist,87657
+Bell,Administration,Management Analyst,50240
+Bell,Administration,Office Assistant,10148
+Bell,Administration,Recreation Aide,15167
+Bell,Administration,Senior Management Analyst,75183
+Bell,Administration,Senior Management Analyst,84937
+Bell,Community Services,Director of Community Services,184176
+Bell,Community Services,Housing Rehabilitation Technician,64399
+Bell,Community Services,Housing Rehabilitation Technician,64705
+Bell,Community Services,Office Assistant,45695
+Bell,Community Services,Recreation Aide,19656
+Bell,Community Services,Recreation Aide,10033
+Bell,Community Services,Recreation Aide,11093
+Bell,Community Services,Recreation Aide,13035
+Bell,Community Services,Recreation Aide,19448
+Bell,Community Services,Recreation Aide,11927
+Bell,Community Services,Recreation Aide,21416
+Bell,Community Services,Recreation Aide,22467
+Bell,Community Services,Recreation Aide,12854
+Bell,Community Services,Recreation Attendant,13729
+Bell,Community Services,Recreation Attendant,13465
+Bell,Community Services,Recreation Attendant,14316
+Bell,Community Services,Recreation Attendant,13094
+Bell,Community Services,Recreation Attendant,13082
+Bell,Community Services,Recreation Attendant,10146
+Bell,Community Services,Recreation Attendant,12641
+Bell,Community Services,Recreation Attendant,15282
+Bell,Community Services,Recreation Attendant,12927
+Bell,Community Services,Recreation Attendant,12227
+Bell,Community Services,Recreation Leader,26120
+Bell,Community Services,Recreation Leader,18802
+Bell,Community Services,Recreation Programmer,25903
+Bell,Community Services,Recreation Supervisor,55993
+Bell,Community Services,Senior Recreation Supervisor,93683
+Bell,Community Services,Senior Recreation Supervisor,87930
+Bell,General Services,Code Enforcement Officer,44779
+Bell,General Services,Code Enforcement Officer,15304
+Bell,General Services,Code Enforcement Officer,45258
+Bell,General Services,Director of General Services,244849
+Bell,General Services,Parking Enforcement Officer,52598
+Bell,General Services,Parking Enforcement Officer,50308
+Bell,General Services,Senior Code Enforcement Officer,77107
+Bell,Police,Assistant Chief of Police,147821
+Bell,Police,Chief of Police,185809
+Bell,Police,Motor Officer,65153
+Bell,Police,Police Captain,131450
+Bell,Police,Police Captain,131450
+Bell,Police,Police Chief,109163
+Bell,Police,Police Detective,90468
+Bell,Police,Police Detective,104613
+Bell,Police,Police Detective,106880
+Bell,Police,Police Lieutenant,76246
+Bell,Police,Police Motor Officer,102106
+Bell,Police,Police Officer,102663
+Bell,Police,Police Officer,112932
+Bell,Police,Police Officer,99425
+Bell,Police,Police Officer,93771
+Bell,Police,Police Officer,90742
+Bell,Police,Police Officer,85539
+Bell,Police,Police Officer,89660
+Bell,Police,Police Officer,94817
+Bell,Police,Police Officer,87987
+Bell,Police,Police Officer,89733
+Bell,Police,Police Officer,85853
+Bell,Police,Police Officer,39085
+Bell,Police,Police Officer,86515
+Bell,Police,Police Officer,103749
+Bell,Police,Police Officer,97036
+Bell,Police,Police Officer,89964
+Bell,Police,Police Officer,94759
+Bell,Police,Police Officer,77005
+Bell,Police,Police Officer,99299
+Bell,Police,Police Officer,92106
+Bell,Police,Police Officer,96044
+Bell,Police,Police Sergeant,113305
+Bell,Police,Police Sergeant,125539
+Bell,Police,Police Sergeant,113461
+Bell,Police,Police Sergeant,116067
+Bell,Police,Police Sergeant,147544
+Bell,Police,Police Sergeant,116368
+Bell,Police,Police Sergeant,114828
+Bell,Police Administration,Community Services Technician,47887
+Bell,Police Administration,Dispatcher,70413
+Bell,Police Administration,Dispatcher,78902
+Bell,Police Administration,Filing Officer,32500
+Bell,Police Administration,Management Analyst,65834
+Bell,Police Administration,Management Analyst,65949
+Bell,Police Administration,Office Assistant,35314
+Bell,Police Administration,Office Coordinator,60387
+Bell,Police Administration,Police Dispatcher,57931
+Bell,Police Administration,Police Dispatcher,57349
+Bell,Police Administration,Police Dispatcher,67693
+Bell,Police Administration,Police Dispatcher,63398
+Bell,Public Works,Deputy City Engineer,164583
+Duarte,Administrative Services,Accountant,61461
+Duarte,Administrative Services,Accounting Specialist,60032
+Duarte,Administrative Services,Administrative Secretary,53176
+Duarte,Administrative Services,Assistant City Manager,132562
+Duarte,Administrative Services,Bus Driver,15467
+Duarte,Administrative Services,Bus Driver,19342
+Duarte,Administrative Services,Bus Driver,18573
+Duarte,Administrative Services,Bus Driver,18700
+Duarte,Administrative Services,Bus Driver,18176
+Duarte,Administrative Services,Bus Driver,20976
+Duarte,Administrative Services,Bus Driver,19784
+Duarte,Administrative Services,Human Resources Analyst,56400
+Duarte,Administrative Services,Human Resources Manager,77250
+Duarte,Administrative Services,Lead Driver,52948
+Duarte,Administrative Services,Transit Supervisor,82606
+Duarte,City Council,Councilmember,13352
+Duarte,City Manager's Office,Administrative Secretary,44609
+Duarte,City Manager's Office,City Manager,215466
+Duarte,City Manager's Office,Clerk/Typist Receptionist,33715
+Duarte,City Manager's Office,Deputy City Manager,98430
+Duarte,City Manager's Office,Promise Fellows,10227
+Duarte,City Manager's Office,Promise Fellows,11452
+Duarte,City Manager's Office,Promise Fellows,16181
+Duarte,Community Development,Administrative Secretary,42114
+Duarte,Community Development,Administrative Secretary,48132
+Duarte,Community Development,Assistant Civil Engineer,72665
+Duarte,Community Development,Assistant Planner,29479
+Duarte,Community Development,City Engineer,20580
+Duarte,Community Development,Director of Community Development,129298
+Duarte,Community Development,Engineering Division Manager,98714
+Duarte,Community Development,Field Services Manager,102490
+Duarte,Community Development,Field Services Supervisor,66878
+Duarte,Community Development,Irrigation Control Technician,53847
+Duarte,Community Development,Planning Intern,13318
+Duarte,Community Development,Redevelopment Coordinator,55845
+Duarte,Community Development,Senior Maintenance Technician,46754
+Duarte,Community Development,Senior Maintenance Technician,58025
+Duarte,Community Development,Senior Maintenance Technician,56148
+Duarte,Community Development,Senior Maintenance Technician*Electrician,55597
+Duarte,Community Development,Senior Planner,89107
+Duarte,Community Development,Senior Planner,91391
+Duarte,Parks & Recreation,Assistant Boxing Trainer,12127
+Duarte,Parks & Recreation,Assistant Boxing Trainer,11858
+Duarte,Parks & Recreation,Boxing Trainer,18657
+Duarte,Parks & Recreation,Custodian,17875
+Duarte,Parks & Recreation,Custodian,21090
+Duarte,Parks & Recreation,Custodian,14101
+Duarte,Parks & Recreation,Custodian,20063
+Duarte,Parks & Recreation,Custodian,14124
+Duarte,Parks & Recreation,Custodian,17584
+Duarte,Parks & Recreation,Custodian,18117
+Duarte,Parks & Recreation,Custodian,20722
+Duarte,Parks & Recreation,Custodian,18878
+Duarte,Parks & Recreation,Custodian,20014
+Duarte,Parks & Recreation,Custodian,20779
+Duarte,Parks & Recreation,Custodian,24763
+Duarte,Parks & Recreation,Custodian,17633
+Duarte,Parks & Recreation,Fee and Charge Instructor,16147
+Duarte,Parks & Recreation,Recreation Coordinator,27080
+Duarte,Parks & Recreation,Recreation Coordinator,33974
+Duarte,Parks & Recreation,Recreation Leader,13918
+Duarte,Parks & Recreation,Recreation Leader,11233
+Duarte,Parks & Recreation,Recreation Leader,11919
+Duarte,Parks & Recreation,Recreation Leader,11214
+Duarte,Parks & Recreation,Recreation Superintendent,97147
+Duarte,Parks & Recreation,Recreation Supervisor,69113
+Duarte,Parks & Recreation,Recreation Supervisor,69030
+Duarte,Parks & Recreation,Recreation Supervisor,52885
+Duarte,Parks & Recreation,Recreation Supervisor,69817
+Duarte,Parks & Recreation,Senior Custodian,45081
+Duarte,Public Safety,Administrative Secretary,53565
+Duarte,Public Safety,Clerk Typist/Receptionist,10194
+Duarte,Public Safety,Code Compliance/Animal Control Officer,58478
+Duarte,Public Safety,Code Compliance/Animal Control Officer,62028
+Duarte,Public Safety,Code Compliance/Animal Control Officer,62038
+Duarte,Public Safety,Community Services Officer,16440
+Duarte,Public Safety,Community Services Officer,15567
+Duarte,Public Safety,Community Services Officer,15452
+Duarte,Public Safety,Crime Prevention Specialist,60025
+Duarte,Public Safety,Director of Public Safety Services,125113
