@@ -37,12 +37,12 @@ class Binary_Tree:
         self.left, self.right = self.right, self.left
 
     def reverse(self):
+        self.__reverse_children()
+
         if self.left != None:
             self.left.reverse()
         if self.right != None:
             self.right.reverse()
-
-        self.__reverse_children()
 
     def print_tree(self):
         print(str(self.value) + ": {L: ", end="")
