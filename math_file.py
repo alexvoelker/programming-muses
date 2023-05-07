@@ -5,3 +5,5 @@ def math_thing(num1: int, num2: int):
 
 
 print(math_thing(eval(input("Number 1: ")), eval(input("Number 2: "))))
+
+
