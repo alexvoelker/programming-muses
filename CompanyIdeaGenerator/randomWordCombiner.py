@@ -1,8 +1,8 @@
 import json
 import random
 
-NUMBER_TERMS_GENERATED = 2000
-NUMBER_WORDS_IN_TERM = 3
+NUMBER_TERMS_GENERATED = 20 
+NUMBER_WORDS_IN_TERM = 2
 OUTPUT_TO_FILE = False
 OUTPUT_FILE_NAME = "random_word_output.txt"
 
