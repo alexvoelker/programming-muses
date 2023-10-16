@@ -1,5 +1,4 @@
 class Binary_Tree:
-    """ Not Sure if I coded this properly, but it's a start"""
     def __init__(self, input_value: int):
         self.value = input_value
         self.node_count = 1
