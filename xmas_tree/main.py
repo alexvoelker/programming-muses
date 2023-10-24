@@ -1,3 +1,5 @@
+import getopt, sys
+
 def join(arr: list[int], s: str) -> str:
 	out = ''
 	for i in range(len(arr) - 1):
@@ -32,4 +34,20 @@ def print_tree(x: int):
 	print(f"{'| |':^{spaces}}")
 
 if __name__ == '__main__':
-	print_tree(13)
+	list_of_arguments = sys.argv[1:]
+	if len(list_of_arguments) > 0:
+		options = "s:"
+		long_options = ["size="]
+		try:
+			arguments, values = getopt.getopt(list_of_arguments, options, long_options)
+			# Only one argument is set up now
+			print(arguments[0][1])
+
+			if len(arguments) >= 1:
+				if arguments[0][0] in ("-s", "--size"):
+					print(arguments[0][1])
+					print_tree(int(arguments[0][1]))
+		except getopt.error as error:
+			print(str(error))
+	else:
+		print_tree(5)
